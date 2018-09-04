@@ -1,3 +1,5 @@
 /polyfills/**
 /specs/**
 /webpack.config.js
+/release.sh
+/.travis.yml

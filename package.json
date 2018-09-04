@@ -4,12 +4,13 @@
   "description": "semver as UMD module for usage in browsers",
   "main": "lib/umd-semver.js",
   "scripts": {
-    "build": "webpack",
-    "prepublish": "npm run build"
+    "test": "jasmine specs/*.spec.js",
+    "build": "webpack"
   },
   "author": "Sefa Ilkimen <sefa.ilkimen@mobisys.de>",
   "license": "MIT",
   "devDependencies": {
+    "jasmine": "3.2.0",
     "semver": "5.3.0",
     "webpack": "^1.13.3"
   },
