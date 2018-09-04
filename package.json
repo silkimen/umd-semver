@@ -1,6 +1,6 @@
 {
   "name": "umd-semver",
-  "version": "5.3.0",
+  "version": "5.4.0",
   "description": "semver as UMD module for usage in browsers",
   "main": "lib/umd-semver.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "jasmine": "3.2.0",
-    "semver": "5.3.0",
+    "semver": "5.4.0",
     "webpack": "^1.13.3"
   },
   "repository": {
